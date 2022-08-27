@@ -1,4 +1,4 @@
-# Go dispatch proxy
+# [Go dispatch proxy](https://github.com/extremecoders-re/go-dispatch-proxy)
 
 ## QuickStart
 
