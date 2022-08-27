@@ -21,3 +21,7 @@ go-dispatch-proxy.exe %ip_address_phone%@1 %ip_address_modem%@2
 
 ### Available Devices
 `go-dispatch-proxy.exe -list`
+
+## Working
+
+![Example](https://github.com/Neutromo/Dispatch/blob/master/example.JPG)
